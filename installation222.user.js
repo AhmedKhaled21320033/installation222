@@ -7,7 +7,7 @@
 // @match        https://www.google.com/*
 // @grant        GM_setClipboard
 // @grant        GM_xmlhttpRequest
-// @require      https://raw.githubusercontent.com/AhmedKhaled21320033/tathbeet/refs/heads/main/tathbeet111
+// @require      https://raw.githubusercontent.com/AhmedKhaled21320033/tathbeet/refs/heads/main/tathbeet222
 // @connect      raw.githubusercontent.com
 // @connect      supabase.co
 // ==/UserScript==
